@@ -1,6 +1,6 @@
 ## Hi there 👋 This is SCANNER TEAM's GitHub 😎
 
-## brif.
+## Brif.
 - 이미지에서 문서를 detection(객체 인식) 하고 왜곡된 문서를 dewarping(평활화)한다 => 최종적으로 깔끔한 문서 제공
 - 노션에서 회의록, 참고자료, 일정 공유(https://www.notion.so/Scanner-with-DL-Project-34c124568fc04850b49af604875daf35)
 - 어떤 서비스를 어떻게 제공 할 것인가 => 수립해야 프로젝트 시작 가능
